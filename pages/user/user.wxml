@@ -1,3 +1,0 @@
-<!--pages/user/user.wxml-->
-<text>pages/user/user.wxml</text>
-<text>{{name}}</text>

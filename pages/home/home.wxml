@@ -1,5 +1,0 @@
-<!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
-<view>
-<button bindtap='open_windows'>打开新窗口</button>
-</view>
